@@ -1,4 +1,4 @@
-opencv-python
+opencv-python==4.8.0.76
 numpy
 pandas
 streamlit
@@ -6,3 +6,4 @@ pillow
 scikit-learn
 matplotlib
 tensorflow
+face-recognition

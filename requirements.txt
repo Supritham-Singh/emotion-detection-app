@@ -6,3 +6,4 @@ matplotlib
 tensorflow
 face_recognition
 dlib
+cmake

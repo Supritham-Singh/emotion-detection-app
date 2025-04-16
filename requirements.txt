@@ -1,7 +1,9 @@
-opencv-python
+streamlit
+opencv-python-headless
 numpy
 pandas
 matplotlib
-streamlit
 tensorflow
 face_recognition
+dlib
+sqlite3

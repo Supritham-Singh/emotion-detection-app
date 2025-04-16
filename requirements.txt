@@ -1,5 +1,5 @@
 streamlit
-cmake=4.0.0
+cmake==4.0.0
 opencv-python-headless
 numpy
 pandas

@@ -1,6 +1,7 @@
 streamlit>=1.0
 cmake
 opencv-python-headless
+opencv-python
 numpy
 pandas
 matplotlib
